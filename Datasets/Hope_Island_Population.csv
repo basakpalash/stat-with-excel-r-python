@@ -1,0 +1,616 @@
+ID, Age, Education_Years, Experience_Years, Distance_to_Port, Resident_Status, District, Annual_Income
+1,43,9,25,2.1,Migrant,West Edge,22629
+2,18,10,0,2.3,Native,Morningside,17548
+3,33,6,16,2.2,Native,Central Plan,15020
+4,42,6,24,9.8,Migrant,West Edge,17488
+5,32,8,16,0.3,Native,West Edge,19901
+6,37,5,24,4.2,Native,West Edge,18810
+7,39,10,21,3.8,Native,West Edge,19794
+8,23,10,5,6.7,Native,West Edge,18443
+9,25,11,3,5.8,Native,West Edge,19955
+10,19,5,4,7.8,Native,Central Plan,12574
+11,31,12,8,2.6,Migrant,Central Plan,24822
+12,45,11,25,1.5,Native,West Edge,22566
+13,20,6,3,7,Native,West Edge,14632
+14,40,9,19,7,Migrant,Central Plan,23082
+15,27,12,5,7.7,Native,Central Plan,18606
+16,40,12,18,9.7,Native,Central Plan,18949
+17,21,10,0,5.9,Native,Central Plan,15465
+18,32,5,19,4.8,Native,Central Plan,16565
+19,39,8,21,0.1,Migrant,Morningside,23350
+20,35,10,15,9.3,Native,Morningside,16243
+21,22,5,6,2.3,Native,Morningside,11440
+22,27,8,11,1.6,Native,Morningside,16112
+23,27,12,4,6.6,Native,Central Plan,18864
+24,35,5,21,7,Native,West Edge,13151
+25,40,6,25,8.3,Migrant,Central Plan,22218
+26,33,11,10,7.1,Native,West Edge,19394
+27,34,9,17,2.1,Native,Morningside,19746
+28,41,8,24,5.6,Native,Morningside,20886
+29,20,7,4,4.3,Native,Morningside,16848
+30,39,8,21,9.1,Native,Central Plan,17954
+31,36,12,15,2.2,Migrant,Morningside,23693
+32,37,10,17,6.6,Native,West Edge,19303
+33,26,11,4,8,Native,West Edge,17051
+34,45,6,29,3,Native,Morningside,19522
+35,40,8,20,6.5,Native,Morningside,17331
+36,40,5,23,2.9,Native,West Edge,17706
+37,29,8,13,8.2,Migrant,Morningside,16960
+38,37,8,20,1.6,Native,Morningside,18030
+39,38,10,18,0.8,Migrant,Morningside,24831
+40,29,7,11,9.3,Migrant,West Edge,17818
+41,24,7,8,8.1,Native,Central Plan,16558
+42,18,8,1,8.5,Native,Morningside,14756
+43,45,5,29,2.7,Native,West Edge,15686
+44,45,6,29,0.5,Native,Central Plan,16723
+45,20,8,2,0.1,Migrant,Morningside,16706
+46,27,9,8,1.2,Migrant,Morningside,20656
+47,19,8,2,1,Native,West Edge,15346
+48,21,10,0,0.2,Native,West Edge,17304
+49,43,10,22,2.4,Native,Morningside,19178
+50,27,9,7,0.5,Native,Morningside,15307
+51,34,7,19,1.9,Native,Morningside,18423
+52,18,6,4,9.5,Native,West Edge,12896
+53,20,6,2,0.4,Native,Central Plan,11742
+54,28,9,7,2.8,Migrant,Morningside,22762
+55,21,5,5,8.2,Native,Morningside,12755
+56,28,7,10,7.5,Native,West Edge,14649
+57,32,11,12,3.7,Native,Central Plan,17889
+58,24,9,3,9.5,Native,Morningside,16055
+59,28,12,7,2.8,Native,West Edge,22602
+60,42,8,24,0.4,Native,West Edge,19719
+61,36,6,21,7.9,Migrant,Central Plan,18053
+62,39,5,23,0.4,Native,Central Plan,16779
+63,36,6,18,6.1,Migrant,West Edge,17944
+64,23,8,5,7.6,Native,Morningside,16917
+65,34,5,17,5.6,Native,West Edge,16625
+66,44,11,25,3.1,Native,West Edge,24423
+67,42,6,28,8,Native,Central Plan,17880
+68,22,10,3,3.5,Native,Central Plan,15389
+69,43,10,24,8.8,Native,Morningside,22969
+70,26,12,2,3.1,Native,Morningside,20458
+71,26,8,10,6.1,Native,Morningside,15059
+72,44,12,21,5.5,Migrant,West Edge,27877
+73,43,9,26,0.7,Native,West Edge,22404
+74,29,8,9,1.1,Native,Central Plan,18468
+75,42,7,26,4.7,Native,West Edge,18924
+76,19,9,0,3.9,Native,Morningside,15433
+77,22,5,5,5.8,Native,Central Plan,12944
+78,21,6,4,3.5,Native,Central Plan,13335
+79,41,11,21,8.7,Native,Central Plan,22116
+80,43,7,26,4.3,Native,Morningside,20598
+81,30,11,10,9.9,Native,Morningside,17380
+82,31,8,13,4.6,Native,Central Plan,17519
+83,43,9,25,7.4,Native,Central Plan,22438
+84,40,11,18,5.1,Native,Central Plan,20930
+85,27,10,5,6,Migrant,West Edge,17830
+86,34,10,13,9.6,Migrant,Morningside,23091
+87,23,5,9,8.3,Native,West Edge,12635
+88,43,9,26,4.7,Migrant,West Edge,25709
+89,30,6,15,5,Migrant,Central Plan,20751
+90,30,5,13,6.3,Migrant,Morningside,15205
+91,28,11,7,4,Native,West Edge,19355
+92,40,7,24,3.8,Native,Central Plan,17860
+93,29,9,12,1.9,Migrant,Morningside,22144
+94,19,11,0,5.2,Native,Morningside,19141
+95,21,6,5,5.5,Migrant,Morningside,16582
+96,40,12,17,4.1,Native,West Edge,24518
+97,43,7,27,2.5,Migrant,Central Plan,24365
+98,25,7,8,4.9,Migrant,Morningside,16194
+99,36,5,19,1.6,Native,Morningside,14125
+100,22,12,0,2.8,Migrant,West Edge,23190
+101,28,10,10,3,Native,Central Plan,19671
+102,37,7,20,9.2,Native,Morningside,16188
+103,18,8,2,0.1,Native,West Edge,15493
+104,43,11,20,9,Migrant,Central Plan,25632
+105,42,12,22,5.9,Native,West Edge,24420
+106,19,9,0,2.4,Native,Central Plan,14165
+107,38,12,15,4.7,Native,Morningside,21684
+108,29,8,13,6,Migrant,West Edge,20421
+109,35,10,16,1.2,Native,Central Plan,18536
+110,43,5,27,6.2,Native,West Edge,15554
+111,35,6,21,2.7,Native,Morningside,17089
+112,44,6,26,6.2,Native,Central Plan,15070
+113,45,6,28,3.8,Migrant,Central Plan,20732
+114,30,9,13,9.4,Native,Central Plan,17176
+115,25,10,5,2.9,Native,West Edge,16590
+116,43,12,21,9.9,Native,Central Plan,20574
+117,19,10,0,5.4,Native,Morningside,18073
+118,24,8,6,4.2,Native,Morningside,15889
+119,41,7,23,9.8,Native,Morningside,14771
+120,41,11,21,0,Migrant,Central Plan,23207
+121,20,11,1,9.4,Native,West Edge,18522
+122,29,12,9,1.1,Native,Central Plan,20972
+123,23,10,3,9.5,Migrant,West Edge,21403
+124,29,7,11,1.1,Native,West Edge,16234
+125,29,5,15,2.9,Native,Morningside,13974
+126,24,9,6,9.4,Migrant,West Edge,17834
+127,27,11,4,5.9,Native,West Edge,19698
+128,44,7,28,7.8,Native,Central Plan,20428
+129,40,10,19,3.4,Migrant,West Edge,23892
+130,40,6,24,1.2,Native,Morningside,16838
+131,28,7,10,9.1,Migrant,Central Plan,18851
+132,25,5,8,8.7,Native,Central Plan,14320
+133,36,7,18,4.9,Migrant,West Edge,20881
+134,25,8,9,4.6,Migrant,West Edge,19743
+135,28,9,11,8,Native,Morningside,18796
+136,30,7,15,4.9,Native,Central Plan,18014
+137,39,10,21,8.8,Native,Central Plan,22072
+138,31,7,15,6.6,Native,West Edge,17373
+139,21,10,0,9.9,Migrant,Morningside,20402
+140,19,11,0,5.1,Migrant,Morningside,19595
+141,43,5,27,4.2,Native,Central Plan,17139
+142,24,10,4,3.1,Native,Morningside,19503
+143,45,9,26,8.5,Native,West Edge,21568
+144,41,12,20,4.6,Migrant,West Edge,26897
+145,21,8,2,0.8,Native,West Edge,16037
+146,33,7,15,9.6,Native,West Edge,16439
+147,25,7,7,7.8,Migrant,Central Plan,19163
+148,43,6,27,4.6,Migrant,Central Plan,21355
+149,45,12,23,2.9,Migrant,Central Plan,24626
+150,29,12,9,5.4,Native,Central Plan,18511
+151,23,12,3,4.5,Native,Central Plan,19882
+152,45,5,31,7.8,Native,West Edge,14850
+153,38,8,18,9.2,Migrant,Central Plan,20571
+154,31,12,8,3.9,Native,West Edge,18346
+155,29,10,8,5.8,Native,Morningside,15785
+156,33,11,13,5.6,Migrant,Morningside,21863
+157,44,7,26,9.8,Native,West Edge,20171
+158,23,9,5,5.3,Native,Central Plan,17618
+159,21,6,7,9.1,Migrant,West Edge,18103
+160,27,7,12,0.9,Migrant,West Edge,17484
+161,33,11,10,3.6,Native,Central Plan,17813
+162,30,11,8,4.7,Native,Central Plan,19585
+163,24,11,5,2.2,Native,Central Plan,16682
+164,31,9,14,4,Migrant,Central Plan,19749
+165,24,7,5,9.6,Migrant,Central Plan,14577
+166,31,7,14,8.5,Native,West Edge,15060
+167,36,11,17,1.1,Native,Central Plan,20968
+168,37,9,17,8,Migrant,Central Plan,23215
+169,31,7,13,5.6,Native,Morningside,15290
+170,39,5,24,8.5,Native,West Edge,14088
+171,45,6,28,7.5,Native,Central Plan,18376
+172,26,9,9,9.8,Migrant,Morningside,20702
+173,43,6,26,7.1,Native,West Edge,16553
+174,32,6,18,1.5,Native,West Edge,19180
+175,40,9,22,1.9,Native,Morningside,21274
+176,22,6,4,3.3,Native,Morningside,13986
+177,25,7,9,1,Migrant,West Edge,16959
+178,35,5,22,2.9,Native,West Edge,17219
+179,21,9,2,4.5,Native,Central Plan,14998
+180,29,6,13,8.3,Native,Morningside,14516
+181,34,10,15,0.6,Migrant,Morningside,20950
+182,34,6,16,6.5,Native,West Edge,16111
+183,24,6,7,3.8,Native,Morningside,14896
+184,33,11,12,7,Native,Morningside,19208
+185,42,7,23,9.9,Native,Morningside,17907
+186,45,7,29,3.3,Migrant,West Edge,24964
+187,43,5,28,2.7,Native,Central Plan,19633
+188,19,6,5,4,Migrant,Morningside,18712
+189,42,5,29,6.4,Native,Morningside,15179
+190,19,10,0,0.8,Native,West Edge,18790
+191,21,5,4,9.7,Native,West Edge,9927
+192,29,8,13,9,Migrant,West Edge,19588
+193,37,5,23,3.2,Native,Morningside,17959
+194,36,6,21,2.3,Migrant,Morningside,21314
+195,22,9,2,8.2,Native,West Edge,15869
+196,39,11,16,9.1,Migrant,Morningside,22268
+197,27,10,9,8.7,Native,Central Plan,15228
+198,28,11,6,7.4,Native,Central Plan,18845
+199,38,7,20,8.9,Migrant,Morningside,19471
+200,27,7,9,1.8,Native,Central Plan,17912
+201,41,8,21,1.9,Native,Central Plan,19123
+202,20,11,0,8.8,Migrant,Morningside,17449
+203,19,11,0,9.2,Native,Central Plan,17199
+204,39,11,17,8.5,Native,West Edge,19650
+205,34,11,14,9,Native,West Edge,17735
+206,37,7,22,3.7,Migrant,West Edge,22863
+207,24,8,5,9.2,Native,West Edge,16255
+208,28,10,6,7.8,Native,Central Plan,19322
+209,28,9,11,0.4,Migrant,West Edge,23988
+210,30,12,9,0.1,Migrant,West Edge,26106
+211,42,10,22,1.8,Migrant,Morningside,22438
+212,45,8,29,6.9,Migrant,Morningside,23327
+213,32,9,11,7,Native,Morningside,18128
+214,26,9,9,0.4,Native,Morningside,20052
+215,36,11,13,6.2,Migrant,Morningside,21859
+216,34,6,19,1,Migrant,West Edge,18353
+217,27,12,3,3.4,Migrant,Morningside,24454
+218,33,10,11,4.9,Native,Central Plan,16610
+219,32,8,13,2.3,Migrant,West Edge,18302
+220,23,10,3,5.4,Native,Central Plan,16673
+221,25,7,6,8.6,Native,Central Plan,11585
+222,28,11,5,2.9,Native,Central Plan,21221
+223,40,10,22,0.5,Native,West Edge,20917
+224,27,10,8,1.6,Migrant,Morningside,19903
+225,32,9,12,0.6,Native,Central Plan,21061
+226,39,11,19,8.9,Migrant,Morningside,21176
+227,37,9,18,4.8,Native,West Edge,17996
+228,27,8,10,2,Native,Central Plan,17468
+229,34,8,15,7,Native,Morningside,15767
+230,24,6,10,6.9,Native,Morningside,11706
+231,41,7,26,5.3,Migrant,Morningside,19650
+232,18,9,0,3.2,Native,West Edge,15903
+233,36,5,20,0.9,Migrant,Morningside,21150
+234,26,10,6,7.1,Native,West Edge,18038
+235,29,5,13,8.7,Native,Central Plan,15615
+236,29,8,11,9.8,Native,Morningside,16849
+237,33,10,14,5.8,Native,West Edge,18028
+238,43,8,27,4.6,Native,West Edge,21723
+239,36,11,15,5.2,Migrant,Morningside,21994
+240,37,9,20,1.3,Native,Central Plan,21911
+241,26,8,6,3.6,Native,Central Plan,14717
+242,18,5,1,1.3,Native,Central Plan,13933
+243,29,10,10,2.4,Migrant,Central Plan,22551
+244,41,8,21,4.6,Native,Morningside,18684
+245,32,7,13,5.1,Native,Morningside,16744
+246,24,12,4,3.4,Native,Central Plan,21367
+247,19,7,3,0.4,Native,West Edge,15321
+248,40,5,24,2.1,Migrant,West Edge,18715
+249,21,5,4,9.1,Native,Central Plan,10705
+250,41,9,24,2.8,Native,Morningside,23048
+251,29,10,11,5.2,Native,West Edge,16995
+252,19,9,2,6.3,Native,Morningside,16767
+253,21,12,0,5,Migrant,Central Plan,20275
+254,27,9,10,4.7,Native,Morningside,16657
+255,44,6,26,1.1,Native,West Edge,17084
+256,24,6,10,4.8,Native,Morningside,15008
+257,19,12,0,6.6,Native,Morningside,18702
+258,24,6,9,9.3,Migrant,Morningside,16868
+259,27,12,7,0.8,Native,Central Plan,21788
+260,24,8,8,8.7,Native,West Edge,17145
+261,21,11,0,7.9,Native,Morningside,16457
+262,38,8,22,5.2,Native,West Edge,18289
+263,42,6,26,1.6,Migrant,Central Plan,22918
+264,32,9,14,5.1,Native,Morningside,18131
+265,36,5,23,6.8,Native,Central Plan,17494
+266,40,7,25,5.1,Migrant,Central Plan,19570
+267,38,12,17,2.6,Native,Morningside,22441
+268,23,7,8,0.7,Native,Morningside,14852
+269,18,10,0,2,Native,West Edge,17141
+270,23,9,2,6.2,Migrant,Central Plan,16994
+271,37,5,22,7.5,Migrant,West Edge,16822
+272,38,9,20,6.4,Native,Morningside,19526
+273,44,7,26,8.4,Migrant,Central Plan,19892
+274,26,7,7,8.4,Native,West Edge,12629
+275,45,9,24,9.2,Native,West Edge,21132
+276,29,8,10,6.4,Native,Morningside,15124
+277,33,11,13,5.7,Migrant,Morningside,23228
+278,32,8,14,4.6,Migrant,Central Plan,19308
+279,35,12,14,4.1,Native,West Edge,22405
+280,25,7,9,9,Native,West Edge,16679
+281,31,9,12,5.5,Native,Morningside,20128
+282,45,9,27,6.6,Native,Morningside,20922
+283,24,12,4,8.3,Native,Central Plan,20832
+284,24,10,3,9.1,Native,West Edge,15016
+285,37,5,21,6.8,Native,Central Plan,14046
+286,42,10,23,8.9,Migrant,Morningside,21098
+287,40,12,19,8.1,Native,Morningside,23023
+288,19,5,5,5.1,Migrant,Morningside,15134
+289,35,7,18,2.2,Native,West Edge,16588
+290,27,6,13,0.3,Native,Morningside,17489
+291,42,9,22,8,Migrant,West Edge,23320
+292,34,10,15,7.4,Native,Morningside,20834
+293,38,8,20,8.2,Native,West Edge,20154
+294,43,11,22,9.1,Native,Morningside,20173
+295,40,5,23,7.6,Native,West Edge,13251
+296,32,6,17,0.1,Native,Central Plan,19071
+297,21,7,2,9.2,Native,Central Plan,11582
+298,19,7,1,0.1,Native,West Edge,13412
+299,37,6,22,3.3,Native,Morningside,15957
+300,22,6,4,5,Native,Central Plan,13855
+301,26,10,5,9.2,Native,Morningside,15255
+302,25,5,9,2.7,Native,Central Plan,15350
+303,39,6,21,5.4,Migrant,West Edge,21966
+304,25,5,11,7.5,Native,West Edge,12816
+305,23,6,7,9.7,Native,Central Plan,12063
+306,22,8,2,6.7,Migrant,Morningside,19157
+307,31,6,17,8.8,Native,West Edge,16287
+308,38,5,21,8.1,Native,Morningside,12962
+309,34,9,17,6.5,Native,Central Plan,19147
+310,33,5,18,3.1,Native,Central Plan,16441
+311,20,8,2,9.9,Native,West Edge,11631
+312,42,8,23,2.5,Native,Central Plan,21212
+313,38,6,24,6.9,Migrant,Morningside,20122
+314,29,9,11,6.7,Native,Morningside,19730
+315,36,8,16,5.9,Native,West Edge,19002
+316,43,8,24,8.6,Native,West Edge,19894
+317,28,8,10,7.8,Native,Central Plan,15189
+318,18,9,1,6.5,Native,Central Plan,14599
+319,44,6,29,5.5,Native,Morningside,16813
+320,39,11,18,2.9,Native,West Edge,20844
+321,29,6,13,9.4,Native,Central Plan,14045
+322,44,9,27,1.2,Native,Central Plan,23602
+323,30,11,7,2,Native,Morningside,20968
+324,18,8,2,6.6,Migrant,Morningside,16867
+325,43,9,22,0.7,Native,West Edge,18371
+326,33,9,12,8.1,Native,West Edge,16869
+327,40,5,24,8.5,Native,Morningside,14069
+328,20,7,2,2.7,Native,Morningside,15163
+329,41,12,21,7.8,Migrant,Morningside,27391
+330,36,9,17,3.7,Native,West Edge,18379
+331,36,10,14,3.6,Migrant,Morningside,23883
+332,34,12,13,7,Migrant,West Edge,25364
+333,20,10,1,8.6,Migrant,Central Plan,18158
+334,37,8,21,10,Native,Morningside,16026
+335,20,12,0,0.9,Native,Morningside,18059
+336,23,9,5,1.8,Migrant,Central Plan,22500
+337,44,6,26,1.8,Native,West Edge,19947
+338,22,9,4,8.3,Native,Central Plan,14814
+339,18,9,0,2.5,Native,West Edge,13828
+340,27,8,11,7.8,Native,Morningside,17485
+341,31,10,10,3.7,Native,Morningside,17845
+342,31,5,15,5,Migrant,Morningside,19015
+343,35,11,14,8.8,Native,Central Plan,17652
+344,21,6,7,7.1,Native,Central Plan,14050
+345,33,8,17,3.1,Native,Morningside,17970
+346,42,9,22,2.1,Native,Morningside,19442
+347,27,11,7,5.8,Native,Central Plan,16603
+348,31,9,11,0.2,Migrant,West Edge,19625
+349,18,5,3,2,Native,West Edge,11199
+350,25,7,8,5.2,Migrant,West Edge,18382
+351,43,11,23,2.8,Native,Morningside,22481
+352,31,9,13,8.9,Native,Central Plan,18405
+353,40,11,20,2.8,Native,Morningside,20622
+354,43,12,23,7.6,Migrant,West Edge,23400
+355,20,6,4,3.6,Native,West Edge,11376
+356,37,10,15,7.9,Migrant,West Edge,22286
+357,23,6,8,2.1,Migrant,West Edge,18951
+358,44,9,25,2.8,Migrant,West Edge,23135
+359,19,11,0,5.8,Native,Central Plan,15687
+360,35,10,14,4.3,Migrant,West Edge,24839
+361,39,5,24,7.5,Migrant,Central Plan,18838
+362,39,6,25,4.2,Native,Morningside,16732
+363,21,10,2,9.5,Native,Morningside,16969
+364,33,11,10,2.4,Native,Morningside,18352
+365,42,9,24,6.5,Migrant,Morningside,23497
+366,41,6,23,8.4,Migrant,Central Plan,17025
+367,29,10,11,9.3,Native,West Edge,16135
+368,28,5,12,10,Native,Morningside,12567
+369,32,9,11,9.7,Migrant,Central Plan,18077
+370,22,12,0,1,Native,Morningside,16855
+371,18,11,0,8.2,Native,Morningside,15932
+372,19,12,0,3.6,Native,Morningside,18974
+373,23,12,2,6.2,Migrant,Morningside,22552
+374,26,11,3,7.2,Native,Central Plan,19447
+375,22,8,4,8,Native,West Edge,15377
+376,27,10,6,8.5,Native,Central Plan,16238
+377,32,8,14,7.5,Migrant,West Edge,20975
+378,41,6,27,3.4,Native,West Edge,18533
+379,19,11,0,4.7,Native,Morningside,15956
+380,19,7,1,5.5,Native,West Edge,13706
+381,20,12,0,7.4,Native,West Edge,18672
+382,34,9,17,8.4,Native,Morningside,17527
+383,33,12,9,8.6,Native,Central Plan,22057
+384,26,5,9,7.9,Native,Central Plan,12838
+385,42,10,23,5.5,Native,Central Plan,20010
+386,29,7,13,6.2,Native,Morningside,16542
+387,41,9,23,6.4,Migrant,Central Plan,23361
+388,38,5,25,7.8,Native,Central Plan,15953
+389,44,9,27,2.6,Native,Morningside,20729
+390,32,11,9,10,Native,Morningside,18641
+391,32,5,16,3,Native,Morningside,16594
+392,23,10,5,9.4,Native,Morningside,14914
+393,38,8,18,8.3,Migrant,West Edge,22151
+394,22,8,6,6.1,Migrant,West Edge,16418
+395,29,5,15,0.8,Native,Central Plan,15429
+396,35,12,12,5.6,Native,Central Plan,20576
+397,28,11,5,2.3,Native,Central Plan,19986
+398,33,12,9,0.9,Native,West Edge,21083
+399,20,12,0,7.8,Native,West Edge,18148
+400,20,9,3,6.2,Native,West Edge,16022
+401,31,7,15,6.1,Native,West Edge,14365
+402,23,7,4,7.7,Native,Morningside,15848
+403,26,12,2,7.9,Migrant,Morningside,20882
+404,37,12,14,8.6,Native,West Edge,21661
+405,45,9,24,9.6,Native,West Edge,20864
+406,41,7,23,6.5,Migrant,Central Plan,19886
+407,28,11,8,1.8,Native,Central Plan,20255
+408,39,8,19,9.8,Native,Central Plan,16120
+409,43,8,24,5.2,Migrant,West Edge,22758
+410,18,11,0,2.1,Native,Morningside,18222
+411,30,11,11,3.6,Native,Morningside,21262
+412,34,10,14,9.8,Native,Morningside,18916
+413,18,12,0,0.4,Native,West Edge,21386
+414,21,6,4,5.9,Native,Central Plan,11148
+415,41,8,21,5.4,Native,West Edge,16828
+416,25,9,6,6.9,Native,Morningside,18213
+417,19,12,0,0.3,Native,West Edge,19383
+418,20,11,0,8.6,Native,Morningside,18942
+419,35,6,19,2.4,Native,Morningside,19230
+420,36,5,22,8.9,Native,Morningside,14167
+421,35,12,12,7,Migrant,Central Plan,25114
+422,24,11,5,6.9,Native,Central Plan,15843
+423,43,6,27,6.9,Native,Central Plan,18022
+424,26,12,2,5.4,Native,West Edge,19171
+425,18,12,0,8.2,Native,Central Plan,17317
+426,23,5,8,4.3,Native,West Edge,13254
+427,43,12,21,9.4,Native,Morningside,23009
+428,26,6,10,4.2,Native,West Edge,12346
+429,35,12,13,2.1,Native,West Edge,20507
+430,31,11,12,1.5,Migrant,West Edge,22955
+431,19,7,4,3.2,Native,Central Plan,17140
+432,33,7,15,6,Migrant,Central Plan,21749
+433,22,11,3,6.6,Native,Central Plan,17644
+434,32,9,13,5.5,Migrant,Morningside,20949
+435,24,6,6,8.9,Migrant,Morningside,13688
+436,30,5,13,3.6,Native,Central Plan,16647
+437,35,9,18,5.9,Native,Morningside,17571
+438,27,5,13,0.1,Native,West Edge,14947
+439,28,8,8,7.2,Native,Central Plan,16806
+440,19,12,0,7.1,Native,Central Plan,17606
+441,25,5,10,2,Migrant,Central Plan,19200
+442,32,8,13,5.6,Native,West Edge,19041
+443,29,7,12,0.5,Native,Morningside,15571
+444,38,9,18,6.3,Native,Morningside,18015
+445,19,6,4,4.2,Native,West Edge,12165
+446,44,9,25,7.9,Native,Central Plan,22047
+447,35,8,16,9.2,Native,Central Plan,15913
+448,33,6,19,0.7,Native,Central Plan,16321
+449,44,7,25,6.2,Native,Central Plan,19586
+450,22,8,3,9.2,Native,Morningside,12131
+451,40,10,20,7,Native,West Edge,18420
+452,38,5,21,2.1,Native,Morningside,16536
+453,19,9,1,8.1,Migrant,West Edge,19495
+454,40,7,25,2.7,Native,Central Plan,20711
+455,21,10,3,7.6,Native,West Edge,17752
+456,35,7,18,0.5,Migrant,West Edge,19606
+457,40,5,26,7.3,Migrant,West Edge,20158
+458,24,10,3,8.7,Migrant,Morningside,19923
+459,35,9,18,2.3,Migrant,West Edge,22345
+460,29,7,13,1.8,Native,West Edge,16453
+461,35,6,17,0.3,Native,Morningside,17661
+462,26,5,12,7.5,Native,Central Plan,14525
+463,42,12,21,3.6,Native,Morningside,20578
+464,32,10,12,3.7,Native,Central Plan,18556
+465,21,6,3,0.5,Native,Central Plan,15332
+466,34,9,15,7.7,Migrant,Central Plan,19685
+467,38,8,21,2.2,Native,West Edge,20991
+468,22,8,3,5.6,Native,Central Plan,13905
+469,42,7,25,5.1,Native,Central Plan,18133
+470,22,8,3,1.7,Native,West Edge,16063
+471,26,7,8,0.7,Native,Morningside,13527
+472,22,5,6,7.2,Native,Morningside,14336
+473,19,8,3,1.8,Migrant,West Edge,20127
+474,27,7,8,7.2,Native,Morningside,15494
+475,35,9,18,3.8,Native,Morningside,20190
+476,39,11,17,0.6,Native,Morningside,22895
+477,35,12,14,2.9,Native,Morningside,21358
+478,40,12,18,5.1,Migrant,Central Plan,22701
+479,21,11,0,8.9,Migrant,Central Plan,18849
+480,45,7,30,6.5,Native,Morningside,20452
+481,44,8,26,2.8,Native,Morningside,19202
+482,21,8,1,0.1,Migrant,Central Plan,20719
+483,30,10,11,2.9,Native,West Edge,20370
+484,37,9,16,1.1,Native,Morningside,21273
+485,20,6,5,2,Native,West Edge,13988
+486,18,5,2,0.6,Native,Central Plan,14141
+487,24,9,3,4.5,Native,Morningside,15449
+488,23,11,0,7.2,Migrant,Central Plan,17725
+489,22,12,1,4.2,Native,West Edge,21167
+490,28,12,4,8.1,Native,Central Plan,16208
+491,36,6,20,5.5,Migrant,Central Plan,21033
+492,23,10,3,3,Native,Central Plan,17897
+493,26,8,7,0.3,Native,West Edge,15137
+494,32,12,12,0.4,Native,Central Plan,21513
+495,44,6,30,1,Migrant,West Edge,20882
+496,42,11,20,8.9,Native,Central Plan,19579
+497,38,8,22,3.9,Migrant,Morningside,21476
+498,35,10,14,9.8,Migrant,Central Plan,22594
+499,42,10,20,9.4,Native,Central Plan,17802
+500,30,7,15,4.9,Migrant,Central Plan,21452
+501,41,11,22,0.4,Migrant,Morningside,24414
+502,25,9,8,8.6,Native,West Edge,16712
+503,31,12,8,8.5,Native,Morningside,16980
+504,29,11,7,1.1,Migrant,Central Plan,24289
+505,37,10,17,8.5,Migrant,West Edge,20492
+506,31,9,13,8.6,Native,West Edge,17317
+507,31,7,16,3.8,Migrant,Morningside,18380
+508,32,5,16,3,Native,West Edge,16149
+509,26,12,2,2.5,Native,West Edge,21147
+510,41,12,19,1.8,Native,Central Plan,23711
+511,45,5,28,4.5,Migrant,Central Plan,20868
+512,27,9,7,9.7,Native,Central Plan,15391
+513,20,5,4,3.7,Native,Central Plan,12107
+514,32,11,9,7.6,Native,West Edge,16944
+515,33,6,15,1,Native,West Edge,14005
+516,37,10,18,8.9,Native,Central Plan,21014
+517,41,9,21,7.5,Native,Central Plan,18599
+518,37,12,17,9.9,Native,West Edge,19989
+519,31,11,8,2.8,Native,West Edge,19749
+520,30,9,9,1.5,Native,Morningside,19860
+521,34,5,17,8.6,Migrant,Morningside,19035
+522,25,9,7,9.3,Native,Morningside,14366
+523,19,12,0,2.3,Migrant,West Edge,22909
+524,29,5,16,9.2,Native,Morningside,12080
+525,30,9,13,2.6,Native,Central Plan,19516
+526,34,8,18,1.7,Migrant,Morningside,20566
+527,45,8,27,8.4,Native,Morningside,19331
+528,44,8,28,7.9,Native,Central Plan,19228
+529,39,6,24,4.1,Migrant,Morningside,19126
+530,36,8,17,7.8,Migrant,Central Plan,19711
+531,25,10,5,1,Native,West Edge,19154
+532,39,12,18,1.1,Migrant,Central Plan,28036
+533,31,9,11,6.5,Native,Morningside,18083
+534,24,7,9,2.3,Native,Morningside,13817
+535,19,5,4,4.3,Native,West Edge,10544
+536,36,7,18,0.5,Native,Morningside,20461
+537,42,5,25,7.9,Native,West Edge,14132
+538,39,6,21,4.8,Native,West Edge,15661
+539,42,12,22,0.4,Migrant,West Edge,25876
+540,22,7,6,0.4,Native,West Edge,17922
+541,44,9,23,3.2,Native,Central Plan,22249
+542,28,5,15,1.9,Migrant,Central Plan,19190
+543,35,6,17,1.6,Migrant,Morningside,17359
+544,45,8,28,2,Native,West Edge,22990
+545,33,6,15,2.3,Native,West Edge,18212
+546,26,7,8,2.6,Native,Morningside,13634
+547,19,7,2,7.6,Migrant,Central Plan,17723
+548,20,6,4,3.6,Migrant,Central Plan,15851
+549,25,5,8,5,Migrant,Morningside,18180
+550,33,10,11,6.9,Native,Central Plan,16678
+551,32,10,12,2.9,Migrant,West Edge,23040
+552,42,8,24,5.2,Native,West Edge,18222
+553,22,10,1,5.1,Migrant,Central Plan,21409
+554,31,8,15,1.8,Native,Central Plan,17377
+555,31,12,11,6.2,Native,Morningside,18749
+556,43,5,27,2.8,Native,Central Plan,19627
+557,28,9,7,8.6,Migrant,Morningside,20559
+558,33,10,11,6.2,Migrant,Morningside,22455
+559,39,5,26,1.1,Native,West Edge,18836
+560,27,10,9,0.2,Native,West Edge,19882
+561,44,8,25,9.6,Migrant,Central Plan,20236
+562,28,11,5,9.2,Migrant,West Edge,19556
+563,22,12,0,5.2,Native,West Edge,17055
+564,44,6,30,5.2,Migrant,Central Plan,21182
+565,22,11,0,6.7,Native,West Edge,19053
+566,23,9,6,3.3,Migrant,West Edge,17794
+567,32,11,9,4,Migrant,Morningside,23089
+568,29,12,8,9.2,Native,Central Plan,19152
+569,45,11,25,6.8,Native,Central Plan,20983
+570,36,7,17,3.3,Native,Morningside,18164
+571,43,9,23,2.2,Migrant,West Edge,25707
+572,43,8,24,1.4,Migrant,Central Plan,22157
+573,20,5,3,9.8,Native,Morningside,12406
+574,39,5,25,8.1,Native,Central Plan,14875
+575,45,9,28,1,Native,West Edge,21499
+576,36,5,19,6.6,Native,Morningside,14863
+577,23,7,6,0.7,Native,West Edge,16713
+578,41,10,23,6.6,Native,West Edge,21231
+579,43,7,27,6.9,Native,Morningside,18797
+580,40,7,21,5.8,Migrant,Central Plan,19958
+581,33,8,13,1,Native,West Edge,16936
+582,24,10,6,6,Migrant,West Edge,20845
+583,29,12,6,3.4,Migrant,West Edge,24940
+584,40,9,20,0.7,Migrant,Morningside,24580
+585,43,8,25,5.4,Native,Morningside,20249
+586,30,10,11,3.7,Native,Morningside,20962
+587,35,5,20,5.8,Native,Central Plan,17081
+588,32,7,16,8,Native,Morningside,16501
+589,28,12,5,6.7,Native,Morningside,21492
+590,35,7,20,6.8,Native,Morningside,18887
+591,42,11,20,6.2,Migrant,Morningside,22710
+592,24,9,4,9.2,Migrant,West Edge,20873
+593,33,8,15,0.2,Migrant,West Edge,21657
+594,26,7,10,5.4,Migrant,West Edge,20482
+595,32,12,9,9.2,Native,West Edge,20231
+596,34,12,11,6,Native,Central Plan,18928
+597,24,5,10,5,Native,Morningside,15674
+598,22,8,3,2.6,Native,Central Plan,14085
+599,38,11,16,7.5,Migrant,Central Plan,24559
+600,20,8,4,9.3,Native,Morningside,12218
+601,44,10,24,8,Native,Morningside,22470
+602,36,12,12,1.3,Native,Morningside,22845
+603,37,11,14,4,Native,Central Plan,18926
+604,18,12,0,8.9,Native,Central Plan,17298
+605,26,12,3,3.4,Native,Morningside,16956
+606,19,10,0,5.7,Native,Morningside,14251
+607,23,12,1,4.9,Native,Morningside,16647
+608,43,12,22,7,Native,Morningside,22760
+609,20,6,4,8,Native,West Edge,12270
+610,23,6,5,3.1,Native,West Edge,11826
+611,44,10,24,1.1,Native,West Edge,24193
+612,33,10,12,5.1,Native,West Edge,17279
+613,40,8,21,4.7,Native,West Edge,17668
+614,33,10,15,8.4,Native,Central Plan,16339
+615,44,9,24,5.4,Native,Central Plan,17822
