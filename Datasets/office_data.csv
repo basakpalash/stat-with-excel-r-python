@@ -1,0 +1,16 @@
+Employee_ID,Department,Remote,Years_Exp,Salary,Engagement
+1,Sales,Yes,2,50000.0,8
+2,sales ,No,5,62000.0,5
+3,IT,Yes,1,45000.0,9
+4,IT,No,10,95000.0,7
+5, HR,Yes,3,,6
+6,Sales,No,8,80000.0,4
+7,IT,No,4,58000.0,8
+8,HR,Yes,12,110000.0,9
+9,Sales,No,1,42000.0,7
+10,IT,Yes,6,75000.0,8
+11,Sales,No,3,52000.0,5
+12,HR,No,9,88000.0,6
+13,IT,Yes,2,48000.0,9
+14,Sales,No,7,72000.0,5
+15,HR,Yes,5,60000.0,7
